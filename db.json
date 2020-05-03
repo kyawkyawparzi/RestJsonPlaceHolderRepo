@@ -6,7 +6,7 @@
     ]
 }
 {
-  "StudentProfile" : {
+  "StudentProfile" : [{
     "-M5AiMrVdxCM6qMWGoiX" : {
       "address" : "lewe",
       "age" : "22",
@@ -46,5 +46,5 @@
       "nrc" : "248240",
       "phone" : "09452339127"
     }
-  }
+  }]
 }
