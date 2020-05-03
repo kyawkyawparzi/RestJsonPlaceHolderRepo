@@ -3,48 +3,10 @@
       { "id": "1", "firstname": "kyaw", "lastname": "htet" },
       { "id": "2", "firstname": "pyae", "lastname": "pyae" },
       { "id": "3", "firstname": "nann", "lastname": "linn" }
+    ],
+    "newuser": [
+      { "id": "1", "firstname": "kyaw", "lastname": "htet" },
+      { "id": "2", "firstname": "pyae", "lastname": "pyae" },
+      { "id": "3", "firstname": "nann", "lastname": "linn" }
     ]
-}
-{
-  "StudentProfile" : [{
-    "-M5AiMrVdxCM6qMWGoiX" : {
-      "address" : "lewe",
-      "age" : "22",
-      "faddress" : "lewe",
-      "fage" : "45",
-      "fjob" : "firm",
-      "fname" : "007641",
-      "fphone" : "09766046634",
-      "imageUri" : "content://com.android.providers.media.documents/document/image%3A133566",
-      "maddress" : "lewe",
-      "mage" : "68",
-      "mjob" : "68",
-      "mname" : "nyunt",
-      "mnrc" : "574378",
-      "mphone" : "09250534492",
-      "name" : "kyaw",
-      "nrc" : "248249",
-      "phone" : "09797865802"
-    },
-    "-M5GANmmQnXO0xK8wSM_" : {
-      "address" : "pyinmana",
-      "age" : "21",
-      "faddress" : "hckdks",
-      "fage" : "5446",
-      "feedback" : "Pending",
-      "fjob" : "sjdjxj",
-      "fname" : "433",
-      "fphone" : "dkdjj",
-      "imageUri" : "content://com.android.providers.media.documents/document/image%3A133568",
-      "maddress" : "hxdjjx",
-      "mage" : "xjxjjx",
-      "mjob" : "ddnxn",
-      "mname" : "xjxjx",
-      "mnrc" : "xuxhxj",
-      "mphone" : "shsjdj",
-      "name" : "pyae",
-      "nrc" : "248240",
-      "phone" : "09452339127"
-    }
-  }]
 }
