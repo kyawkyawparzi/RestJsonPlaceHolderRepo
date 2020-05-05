@@ -1,6 +1,6 @@
 {
-    "users" : {
-      "userid" : "10000",
+    "StudentProfile" : {
+    "-M5AiMrVdxCM6qMWGoiX" : {
       "address" : "lewe",
       "age" : "22",
       "faddress" : "lewe",
@@ -19,8 +19,7 @@
       "nrc" : "248249",
       "phone" : "09797865802"
     },
-    {
-      "userid" : "10001",
+    "-M5GANmmQnXO0xK8wSM_" : {
       "address" : "pyinmana",
       "age" : "21",
       "faddress" : "hckdks",
@@ -40,4 +39,6 @@
       "nrc" : "248240",
       "phone" : "09452339127"
     }
+  }
+
 }
