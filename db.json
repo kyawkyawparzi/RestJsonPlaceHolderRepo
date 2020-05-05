@@ -1,3 +1,25 @@
 {
- "users":{"userid":"1","firstname":"kyaw","lastname":"kyaw"}
+ "users":
+ [
+  {
+   "userid" : "1000"
+   "firstname" : "Kyaw"
+   "lastname" : "Htet"
+  },
+  {
+   "userid" : "1001"
+   "firstname" : "Kyaw"
+   "lastname" : "Htet"
+  },
+  {
+   "userid" : "1002"
+   "firstname" : "Kyaw"
+   "lastname" : "Htet"
+  },
+  {
+   "userid" : "1003"
+   "firstname" : "Kyaw"
+   "lastname" : "Htet"
+  }
+ ]
 }
