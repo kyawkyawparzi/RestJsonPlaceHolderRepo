@@ -1,23 +1,6 @@
 {
-    "users": [
-      { "userid": "1", "firstname": "kyaw", "lastname": "ky                                                 jhguh                               jkhj                            aw" },
-      { "userid": "2", "firstname": "maung", "lastname": "maung" },
-      { "userid": "3", "firstname": "kyi", "lastname": "kyi" },
-      { "userid": "4", "firstname": "than", "lastname": "than" },
-      { "userid": "5", "firstname": "thant", "lastname": "thant" },
-      { "userid": "6", "firstname": "nann", "lastname": "linn" },
-      { "userid": "7", "firstname": "pyae", "lastname": "pyae" },
-      { "userid": "8", "firstname": "pyae", "lastname": "pyae" },
-      { "userid": "9", "firstname": "baby", "lastname": "lay" },
-      { "userid": "10", "firstname": "man", "lastname": "gyi" },
-      { "userid": "11", "firstname": "soe", "lastname": "lay" },
-      { "userid": "12", "firstname": "mike", "lastname": "gyi" },
-      { "userid": "13", "firstname": "kyaw", "lastname": "htet" },
-      { "userid": "14", "firstname": "pyae", "lastname": "pyae" },
-      { "userid": "15", "firstname": "nann", "lastname": "linn" }
-    ],
-    "user" : {
-    "10000" : {
+    "users" : {
+      "userid" : "10000",
       "address" : "lewe",
       "age" : "22",
       "faddress" : "lewe",
@@ -36,7 +19,7 @@
       "nrc" : "248249",
       "phone" : "09797865802"
     },
-    "10001" : {
+      "userid" : "10001",
       "address" : "pyinmana",
       "age" : "21",
       "faddress" : "hckdks",
@@ -57,5 +40,4 @@
       "phone" : "09452339127"
     }
   }
-
 }
