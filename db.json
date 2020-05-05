@@ -1,6 +1,8 @@
 {
-    "StudentProfile" : {
-    "-M5AiMrVdxCM6qMWGoiX" : {
+   "users" : 
+    {
+        {
+      "userid" : "10000",
       "address" : "lewe",
       "age" : "22",
       "faddress" : "lewe",
@@ -17,9 +19,10 @@
       "mphone" : "09250534492",
       "name" : "kyaw",
       "nrc" : "248249",
-      "phone" : "09797865802"
+      "phone" : "09797865802"  
     },
-    "-M5GANmmQnXO0xK8wSM_" : {
+    {
+      "userid" : "10001",
       "address" : "pyinmana",
       "age" : "21",
       "faddress" : "hckdks",
@@ -38,7 +41,6 @@
       "name" : "pyae",
       "nrc" : "248240",
       "phone" : "09452339127"
-    }
-  }
-
+    }    
+   }
 }
