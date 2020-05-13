@@ -4,7 +4,7 @@
   "description": "Rest Json Place Holder API",
   "main": "index.js",
   "scripts": {
-    "json:server":"json-server --watch db.json"
+    "json:server": "json-server --watch db.json"
   },
   "author": "",
   "license": "ISC",
