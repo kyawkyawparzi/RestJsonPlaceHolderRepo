@@ -1,17 +1,4 @@
 {
-<<<<<<< HEAD
-    "users": [
-      { "id": "1", "firstname": "kyaw", "lastname": "htet" },
-      { "id": "2", "firstname": "pyae", "lastname": "pyae" },
-      { "id": "3", "firstname": "nann", "lastname": "linn" }
-    ],
-    "movies": [
-      {"id":"1","movietype":"horror","country":"myanmar"},
-      {"id":"2","movietype":"drama","country":"myanmar"},
-      {"id":"3","movietype":"action","country":"myanmar"}
-    ]
-}
-=======
  "users":
  [
   {
